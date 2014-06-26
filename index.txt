@@ -1,0 +1,65 @@
+openxiangqi.org
+===============
+:toc:
+:toclevels: 3
+
+Links
+-----
+
+Online play (free of cost)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+* http://www.playxiangqi.com/[playxiangqi.com] (Flash-based)
+* http://www.playok.com/en/xiangqi/[playok.com] (JavaScript-based?)
+
+
+Software
+~~~~~~~~
+* https://code.google.com/p/hoxchess/[hoxchess]: Software libre, Linux / Windows / OS X
+
+
+Hardware
+~~~~~~~~
+* 30,95 Euro, https://www.woodstock-spiele.de/xiangqi-chinesisches-schach/a-8009012/[urea, 30.5cm x 34cm board, 7cm pieces]
+* 32,00 Euro, http://www.japanwelt.de/unterhaltung/spiele/xiangqi/magnetset-xiangqi-gross.html?listtype=search&searchparam=Xiangqi[magnetic, 37cm x 37cm board]
+* 59,90 Euro, https://www.woodstock-spiele.de/go-asia-schach/xiangqi-chinesisches-schach/a-8009004/[stereoscopic (steel, small edition), 25.5cm x 22cm board]
+* 79,90 Euro, https://www.woodstock-spiele.de/xiangqi-chinesisches-schach-gross/go-asia-schach/a-8009011/[stereoscopic (steel, big edition), 31cm x 35cm board]
+* 119,90 Euro, https://www.woodstock-spiele.de/xiangqi-chinesisches-schach/a-8009013/[stereoscopic (wood), 37.5cm x 34cm board]
+
+
+Print
+~~~~~
+* http://www.huang-verlag.de/Xiangqi.html[Board and pieces (huang-verlag.de)]
+* https://commons.wikimedia.org/wiki/File:Xiangqi_pieces_print.svg[Pieces (commons.wikimedia.org)]
+
+
+Videos (English language)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Introductory
+^^^^^^^^^^^^
+* https://www.youtube.com/watch?v=wXllZtjyn9A[Intro to Chinese Chess] and https://www.youtube.com/watch?v=QYldzxZXJgw[Lecture 2] by HessOnChess
+* https://www.youtube.com/watch?v=sHJRQnybd1c[How to Play Xiangqi (Chinese Chess)] by Fergus Duniho
+* https://www.youtube.com/watch?v=zMzpH6LX5ic[Chinese Chess Tutorial] by BrickGamerz99
+* https://www.youtube.com/watch?v=0UuDiL9CLPI[How to Play Chinese Chess - Xiangqi] by AncientChess
+* https://www.youtube.com/watch?v=8OxhtWuoCVU[Chinese chess internationalized version xiangqi] by Michael A
+* https://www.youtube.com/watch?v=VqcTaFcFbUA[How to play Chinese Chess (1of2)] and https://www.youtube.com/watch?v=mpDpdTiM0Wk[(2of2)] by Danny Burbol
+* https://www.youtube.com/watch?v=rTrQUcUCldI[Chinese Chess - How to Play Walkthrough - Part 1] and https://www.youtube.com/watch?v=cX7QvgYG1FI[Part 2] by Sam Murray
+* https://www.youtube.com/watch?v=tyARSAw9LGA[Chinese Chess 101] by Vinh Le
+* https://www.youtube.com/watch?v=gkdQw3Z-VAc[Chinese Chess SKSS] by skssmathday1
+* https://www.youtube.com/watch?v=vRC68s0GmKU[China Town - Xiang Qi (Chinese Chess) 中國象棋]
+
+Post introductory
+^^^^^^^^^^^^^^^^^
+* https://www.youtube.com/watch?v=pizC_erdG84[Little Peter's first game of Xiangqi] by Felix Tan
+* https://www.youtube.com/watch?v=xqBT5ne1OiA[Chinese Chess Opening Cool Trap] by Liu Yu
+* https://www.youtube.com/watch?v=6Nv5oT-Jbbc[Annotation of a training game] by Felix Tan, same as https://www.youtube.com/watch?v=9Q7anQz7n4k[Felix Tan analyses a game] by Singapore Xiangqi Academy
+* https://www.youtube.com/watch?v=npd4m1qqKzk[Cannon & Adviser vs 2 Advisers] by Felix Tan
+* https://www.youtube.com/watch?v=l92hpVezGe0[4birdswith1stone] by Felix Tan, same as https://www.youtube.com/watch?v=k5fi1I5LhC4[Four birds with one stone] by Singapore Xiangqi Academy
+* https://www.youtube.com/watch?v=oERKjeYlyXE[Xiangqi Lesson by IGM Alvin Woo: Sacrifice Horse Opening] by Singapore Xiangqi Academy, same as https://www.youtube.com/watch?v=HgHAB418Ssw[Sacrifice horse and win in 13 moves] also by Singapore Xiangqi Academy
+* https://www.youtube.com/watch?v=-1jXt-QbuEA[A Concept in Xiangqi Opening] by Singapore Xiangqi Academy
+* https://www.youtube.com/watch?v=vmUujPE-z58[Xiangqi (Chinese chess) Strategy Lessons 1 & 2] by Michael G
+
+Tournaments
+^^^^^^^^^^^
+* https://www.youtube.com/playlist?list=PL2B2CD72C3A56DB3E[Xiangqi @ 2011 SportAccord World Mind Games] by mindgameschannel
+* https://www.youtube.com/playlist?list=PLlChSWOtfFWfPU92vvdmK13MCw0LjFtLe[Xiangqi @ 2012 SportAccord World Mind Games] by mindgameschannel
